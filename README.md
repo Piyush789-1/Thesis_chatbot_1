@@ -252,7 +252,7 @@ Model Loader
         └── Return model-generated response
 
 ```
-7. streamlit chatbot interface script.
+7. streamlit chatbot interface.
 
 ```text
 Streamlit Chatbot Interface Overview
