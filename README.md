@@ -15,7 +15,7 @@ Each answer take at least 2 min , as LLM is running on local ( 32GB RAM and 4GB 
 ![image](https://github.com/Piyush789-1/Thesis_chatbot_1/blob/main/Picture1.png)
 
 
-![image](https://github.com/user-attachments/assets/8766fe7c-e83a-4b72-b961-8070a364ae66)
+![image](Picture2.png)
 
 
 2. Image represenation --> the main content of images is hidden due to data privacy.
