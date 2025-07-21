@@ -12,7 +12,7 @@ Each answer take at least 2 min , as LLM is running on local ( 32GB RAM and 4GB 
 
 1.  Formula representation -->
 
-![image](https://github.com/Piyush789-1/Thesis_chatbot_1/blob/main/Picture1.png)
+![image](Picture1.png)
 
 
 ![image](Picture2.png)
@@ -20,7 +20,7 @@ Each answer take at least 2 min , as LLM is running on local ( 32GB RAM and 4GB 
 
 2. Image represenation --> the main content of images is hidden due to data privacy.
 
-![image](https://github.com/user-attachments/assets/b6ce50a5-fb71-42de-96cc-81ec3b2b7f0f)
+![image](Picture3.png)
 
 Below steps are used to build the chatbot. Tree structure is provided for sub-steps performed in each main step.
 
