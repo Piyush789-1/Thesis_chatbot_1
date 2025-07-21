@@ -12,7 +12,7 @@ Each answer take at least 2 min , as LLM is running on local ( 32GB RAM and 4GB 
 
 1.  Formula representation -->
 
-![image]([https://github.com/user-attachments/assets/eea34647-a69a-4327-bb39-26cfe5e1d13d](https://github.com/Piyush789-1/Thesis_chatbot_1/blob/main/Picture1.png))
+![image](https://github.com/Piyush789-1/Thesis_chatbot_1/blob/main/Picture1.png)
 
 
 ![image](https://github.com/user-attachments/assets/8766fe7c-e83a-4b72-b961-8070a364ae66)
